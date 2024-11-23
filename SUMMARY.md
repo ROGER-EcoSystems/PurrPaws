@@ -1,8 +1,26 @@
 # Table of contents
 
+## PawsCombat
+
+* [PAWS COMBAT](README.md)
+  * [WHY](pawscombat/paws-combat/why.md)
+  * [STORY](pawscombat/paws-combat/story.md)
+  * [BENEFITS](pawscombat/paws-combat/benefits.md)
+  * [PAWS GAME FI](pawscombat/paws-combat/paws-game-fi.md)
+* [Advertise](pawscombat/advertise.md)
+* [Partnership](pawscombat/partnership/README.md)
+  * [Credentials](pawscombat/partnership/credentials.md)
+* [Paws Combat USER'S GUIDE](pawscombat/paws-combat-users-guide.md)
+* [Air Drop](pawscombat/air-drop/README.md)
+  * [PurrPaws ($PPAWS) Launch](pawscombat/air-drop/purrpaws-usdppaws-launch.md)
+* [Level 7 Rewards Club](pawscombat/level-7-rewards-club.md)
+* [How to Level Up](pawscombat/how-to-level-up.md)
+* [Use Cases](pawscombat/use-cases.md)
+* [FAQ](pawscombat/faq.md)
+
 ## PURR PAWS&#x20;
 
-* [PurrPaws](README.md)
+* [PurrPaws](<README (1).md>)
   * [Welcome](purr-paws/purrpaws/readme/README.md)
     * [Vision & Mission](purr-paws/purrpaws/readme/vision-and-mission.md)
     * [STORY](purr-paws/purrpaws/readme/story.md)
@@ -18,21 +36,3 @@
     * [Taxes](purr-paws/purrpaws/readme/taxes.md)
     * [RoadMap](purr-paws/purrpaws/readme/roadmap.md)
   * [PRESALE (WL)](purr-paws/purrpaws/presale-wl.md)
-
-## PawsCombat
-
-* [PAWS COMBAT](pawscombat/paws-combat/README.md)
-  * [WHY](pawscombat/paws-combat/why.md)
-  * [STORY](pawscombat/paws-combat/story.md)
-  * [BENEFITS](pawscombat/paws-combat/benefits.md)
-  * [PAWS GAME FI](pawscombat/paws-combat/paws-game-fi.md)
-* [Advertise](pawscombat/advertise.md)
-* [Partnership](pawscombat/partnership/README.md)
-  * [Credentials](pawscombat/partnership/credentials.md)
-* [Paws Combat USER'S GUIDE](pawscombat/paws-combat-users-guide.md)
-* [Air Drop](pawscombat/air-drop/README.md)
-  * [PurrPaws ($PPAWS) Launch](pawscombat/air-drop/purrpaws-usdppaws-launch.md)
-* [Level 7 Rewards Club](pawscombat/level-7-rewards-club.md)
-* [How to Level Up](pawscombat/how-to-level-up.md)
-* [Use Cases](pawscombat/use-cases.md)
-* [FAQ](pawscombat/faq.md)
