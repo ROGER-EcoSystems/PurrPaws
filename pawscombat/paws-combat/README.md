@@ -1,4 +1,8 @@
-# Introduction
+---
+description: tApp Game of PurrPaws
+---
+
+# PAWS COMBAT
 
 **Welcome to Paws Combat: The Ultimate Mini-Game Experience!**
 

@@ -21,11 +21,11 @@
 
 ## PawsCombat
 
-* [Introduction](pawscombat/introduction/README.md)
-  * [WHY](pawscombat/introduction/why.md)
-  * [STORY](pawscombat/introduction/story.md)
-  * [BENEFITS](pawscombat/introduction/benefits.md)
-  * [PAWS GAME FI](pawscombat/introduction/paws-game-fi.md)
+* [PAWS COMBAT](pawscombat/paws-combat/README.md)
+  * [WHY](pawscombat/paws-combat/why.md)
+  * [STORY](pawscombat/paws-combat/story.md)
+  * [BENEFITS](pawscombat/paws-combat/benefits.md)
+  * [PAWS GAME FI](pawscombat/paws-combat/paws-game-fi.md)
 * [Advertise](pawscombat/advertise.md)
 * [Partnership](pawscombat/partnership/README.md)
   * [Credentials](pawscombat/partnership/credentials.md)
