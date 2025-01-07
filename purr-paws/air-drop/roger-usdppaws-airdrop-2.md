@@ -6,6 +6,8 @@ description: Simple Rewards for Everyone!
 
 We understand that not everyone may be interested or able to participate in our tApp game. That’s why we’re introducing a straightforward airdrop program, making it easy to engage with our socials, complete simple tasks, and even refer friends to earn additional points.
 
+<figure><img src="../../.gitbook/assets/AIRDROP 2.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ## 💰 Reward Structure

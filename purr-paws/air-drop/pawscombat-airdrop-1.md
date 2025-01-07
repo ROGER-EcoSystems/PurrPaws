@@ -6,6 +6,8 @@ description: Supporting New Players with $PPAWS Rewards 🎉
 
 We are excited to introduce PawsCombat Airdrop 1, designed to help our new players get started in @pawscombat\_bot, a long-term tApp game powered by the RogerPad ecosystem. This initiative aims to provide support and encourage active participation in our community while rewarding our most dedicated supporters.
 
+<figure><img src="../../.gitbook/assets/pawscombat air drop 1.png" alt=""><figcaption></figcaption></figure>
+
 ## 💰 Reward Structure
 
 🏆 1,000 Random Winners
