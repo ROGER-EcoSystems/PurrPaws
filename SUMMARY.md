@@ -18,6 +18,10 @@
     * [Taxes](purr-paws/purrpaws/readme/taxes.md)
     * [RoadMap](purr-paws/purrpaws/readme/roadmap.md)
   * [PRESALE (WL)](purr-paws/purrpaws/presale-wl.md)
+* [AIR DROP](purr-paws/air-drop/README.md)
+  * [PAWS COMBAT AIRDROP](purr-paws/air-drop/paws-combat-airdrop.md)
+  * [PawsCombat Airdrop 1:](purr-paws/air-drop/pawscombat-airdrop-1.md)
+  * [ROGER ($PPAWS) Airdrop 2:](purr-paws/air-drop/roger-usdppaws-airdrop-2.md)
 
 ## PawsCombat
 
