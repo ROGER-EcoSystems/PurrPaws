@@ -2,7 +2,7 @@
 description: >-
   PurrPaws ($PPAWS) PreSale: Your Exclusive Opportunity to Join the Next Big
   Meme Token with Real Utility!
-cover: ../../.gitbook/assets/IMAGE 2024-09-21 211930.jpeg
+cover: ../../.gitbook/assets/58.png
 coverY: 0
 layout:
   cover:

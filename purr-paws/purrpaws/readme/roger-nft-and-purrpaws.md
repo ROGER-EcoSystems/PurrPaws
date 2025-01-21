@@ -2,7 +2,7 @@
 
 Owning a Roger NFT within the Paws Combat system offers several exclusive benefits that enhance both your gameplay experience and your involvement in the broader PurrPaws ecosystem. Here’s a breakdown of the key advantages:
 
-<figure><img src="../../../.gitbook/assets/IMAGE 2024-09-23 054254.jpeg" alt=""><figcaption><p>nft.rogerecosystem.com</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMAGE 2024-09-23 054254.jpeg" alt="" width="375"><figcaption><p>nft.rogerecosystem.com</p></figcaption></figure>
 
 ### Benefits of Owning a Roger NFT in Paws Combat
 

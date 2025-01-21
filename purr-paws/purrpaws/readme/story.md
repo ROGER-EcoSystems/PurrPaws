@@ -1,5 +1,7 @@
 # STORY
 
+<figure><img src="../../../.gitbook/assets/2.png" alt="" width="188"><figcaption></figcaption></figure>
+
 The story of PurrPaws began as a playful yet symbolic venture within the broader vision of RogerPad. Designed to test the platform's full functionality, PurrPaws wasn't just another meme token—it embodied the spirit and mission of RogerPad's ecosystem.
 
 PurrPaws was set to launch on the Solana chain through a limited whitelist presale, offering early supporters and investors the chance to participate in something unique. However, beneath its lighthearted exterior, the token stood for a deeper purpose. The acronym P.U.R.R.P.A.W.S. captured its essence:
