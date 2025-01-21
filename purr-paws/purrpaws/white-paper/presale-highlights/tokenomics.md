@@ -4,7 +4,7 @@
 
 PurrPaws employs a carefully structured tokenomics framework to ensure fair distribution, ecosystem sustainability, and long-term growth. The total supply of 100 billion tokens (100,000,000,000) has been thoughtfully allocated across key areas to fuel innovation, incentivize community participation, and support future initiatives:
 
-<figure><img src="../../.gitbook/assets/TOKENOMICS PIE .png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/TOKENOMICS PIE .png" alt=""><figcaption></figcaption></figure>
 
 ### 1. Presale & Liquidity Provision (26%)
 
