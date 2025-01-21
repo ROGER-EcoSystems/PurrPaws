@@ -17,6 +17,7 @@
     * [10. Community and Marketing Strategy](purr-paws/purrpaws/white-paper/10.-community-and-marketing-strategy.md)
     * [11. Security and Compliance](purr-paws/purrpaws/white-paper/11.-security-and-compliance.md)
     * [12. Conclusion](purr-paws/purrpaws/white-paper/12.-conclusion.md)
+  * [Tokenomics](purr-paws/purrpaws/tokenomics.md)
 * [AIR DROP](purr-paws/air-drop/README.md)
   * [PAWS COMBAT AIRDROP](purr-paws/air-drop/paws-combat-airdrop.md)
   * [PawsCombat Airdrop 1:](purr-paws/air-drop/pawscombat-airdrop-1.md)
