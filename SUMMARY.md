@@ -18,6 +18,7 @@
     * [11. Security and Compliance](purr-paws/purrpaws/white-paper/11.-security-and-compliance.md)
     * [12. Conclusion](purr-paws/purrpaws/white-paper/12.-conclusion.md)
     * [PreSale HighLights](purr-paws/purrpaws/white-paper/presale-highlights/README.md)
+      * [Why $PPAWS ?](purr-paws/purrpaws/white-paper/presale-highlights/why-usdppaws.md)
       * [Tokenomics](purr-paws/purrpaws/white-paper/presale-highlights/tokenomics.md)
       * [Functions of RogerPad Tested with $PPAWS](purr-paws/purrpaws/white-paper/presale-highlights/functions-of-rogerpad-tested-with-usdppaws.md)
       * [Deflationary $PPAWS Token](purr-paws/purrpaws/white-paper/presale-highlights/deflationary-usdppaws-token/README.md)
