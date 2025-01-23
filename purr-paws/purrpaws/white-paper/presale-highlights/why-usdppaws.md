@@ -16,7 +16,7 @@
 
 6\.     **Fair Launch Whitelisted**: $PPAWS is offering a whitelist for its fair launch, ensuring that those who are genuinely interested in the project have a chance to participate. This approach guarantees that all interested parties can secure their spot in the most anticipated token launch of 2025 on an equal footing.
 
-7\.     **Soft Cap: 100 BNB**: The presale for $PPAWS has set a soft cap at 100 BNB, ensuring that there is a clear minimum threshold to move forward with the launch. This helps the team gauge the level of interest and ensure that the project can move forward with adequate funding and community support.
+7\.     **Soft Cap: 50 BNB**: The presale for $PPAWS has set a soft cap at 100 BNB, ensuring that there is a clear minimum threshold to move forward with the launch. This helps the team gauge the level of interest and ensure that the project can move forward with adequate funding and community support.
 
 8\.     **Affiliate Reward: 10%**: $PPAWS offers one of the highest affiliate reward rates in the industry, with a generous 10% reward for every successful referral. This incentivizes the community to actively promote the token, helping to expand its reach and grow the user base through organic word-of-mouth.
 
