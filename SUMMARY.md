@@ -26,6 +26,7 @@
       * [Functions of RogerPad Tested with $PPAWS](purr-paws/purrpaws/white-paper/presale-highlights/functions-of-rogerpad-tested-with-usdppaws.md)
       * [Deflationary $PPAWS Token](purr-paws/purrpaws/white-paper/presale-highlights/deflationary-usdppaws-token/README.md)
         * [$PPAWS: Deflationary Tokenomics at Its Finest](purr-paws/purrpaws/white-paper/presale-highlights/deflationary-usdppaws-token/usdppaws-deflationary-tokenomics-at-its-finest.md)
+      * [BONUS BUY](purr-paws/purrpaws/white-paper/presale-highlights/bonus-buy.md)
 * [AIR DROP](purr-paws/air-drop/README.md)
   * [PAWS COMBAT AIRDROP](purr-paws/air-drop/paws-combat-airdrop.md)
   * [PawsCombat Airdrop 1:](purr-paws/air-drop/pawscombat-airdrop-1.md)
