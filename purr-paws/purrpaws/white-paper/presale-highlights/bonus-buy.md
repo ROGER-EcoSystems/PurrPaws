@@ -15,4 +15,6 @@ This special bonus is our way of rewarding early believers and giving you an edg
 👉 **Secure Your $PPAWS Bonus Today!**\
 Be quick—this exclusive deal won't last long.
 
+## [BUY NOW](https://rogerpad.io/presale/0x086bc385D8d6D051Af211F17A784b2d2ED8e5f48)
+
 \#PPAWS #LaunchWithRoger #CryptoRewards #FairLaunch #CryptoCommunity
